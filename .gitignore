@@ -1,0 +1,6 @@
+ElecSaver.Run/bin/
+ElecSaver.Run/obj/project.assets.json
+ElecSaver.Run/obj/ElecSaver.Run.csproj.nuget.g.targets
+ElecSaver.Run/obj/ElecSaver.Run.csproj.nuget.g.props
+ElecSaver.Run/obj/Debug/netcoreapp2.0/ElecSaver.Run.csproj.FileListAbsolute.txt
+ElecSaver.Run/obj/Debug/netcoreapp2.0/ElecSaver.Run.AssemblyInfo.cs
