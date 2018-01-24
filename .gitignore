@@ -4,3 +4,11 @@ ElecSaver.Run/obj/ElecSaver.Run.csproj.nuget.g.targets
 ElecSaver.Run/obj/ElecSaver.Run.csproj.nuget.g.props
 ElecSaver.Run/obj/Debug/netcoreapp2.0/ElecSaver.Run.csproj.FileListAbsolute.txt
 ElecSaver.Run/obj/Debug/netcoreapp2.0/ElecSaver.Run.AssemblyInfo.cs
+ElecSaver.Run/obj/Release/netcoreapp2.0/ElecSaver.Run.AssemblyInfo.cs
+ElecSaver.Dashboard/obj/project.assets.json
+ElecSaver.Dashboard/obj/ElecSaver.Dashboard.csproj.nuget.g.targets
+ElecSaver.Dashboard/obj/ElecSaver.Dashboard.csproj.nuget.g.props
+ElecSaver.Dashboard/obj/Debug/netcoreapp2.0/ElecSaver.Dashboard.csproj.FileListAbsolute.txt
+ElecSaver.Dashboard/obj/Debug/netcoreapp2.0/ElecSaver.Dashboard.AssemblyInfo.cs
+ElecSaver.Dashboard/Properties/launchSettings.json
+ElecSaver.Dashboard/bin/
